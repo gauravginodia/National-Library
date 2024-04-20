@@ -67,7 +67,6 @@ def send_monthly_report():
 
 def send_email(subject, recipient, body):
     sender_email = 'gauravginodiacollege@gmail.com'
-    sender_password = 'ixdxsnoqaobtrmkb'
 
     msg = MIMEText(body)
     msg['Subject'] = subject
@@ -82,7 +81,6 @@ def send_email(subject, recipient, body):
 
 def send_monthly_email(subject, recipient, body):
     sender_email = 'gauravginodiacollege@gmail.com'
-    sender_password = 'ixdxsnoqaobtrmkb'  
 
     msg = MIMEText(body,"html")
     msg['Subject'] = subject
