@@ -24,7 +24,7 @@ def create_app():
     app.config['MAIL_USE_TLS'] = False
     app.config['MAIL_USE_SSL'] = True
     app.config['MAIL_USERNAME'] = 'gauravginodiacollege@gmail.com'
-    app.config['MAIL_PASSWORD'] = 'fyjwdempkqttexkv'  
+      
  
 
     app.config['CACHE_TYPE'] = 'RedisCache'
