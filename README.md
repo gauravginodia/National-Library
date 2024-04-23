@@ -3,6 +3,11 @@
 ## Description
 This project is a library management website built with Flask for the API backend and Vue.js for the user interface. Vue.js is utilized with the CLI for advanced development capabilities, while Bootstrap provides styling. The database is managed with SQLite, and Redis is employed for caching. Additionally, Redis and Celery are used for batch jobs.
 
+## Demo Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F7sSOhsArE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Features
 - Flask backend for API endpoints.
 - Vue.js frontend with advanced CLI features.
