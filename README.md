@@ -69,14 +69,5 @@ Before running this project locally, ensure you have the following installed:
 
 4. Access the application in your browser at `http://localhost:8080`.
 
-
-## Acknowledgements
-- Flask: https://flask.palletsprojects.com/
-- Vue.js: https://vuejs.org/
-- Bootstrap: https://getbootstrap.com/
-- SQLite: https://www.sqlite.org/
-- Redis: https://redis.io/
-- Celery: https://docs.celeryproject.org/
-
 ## Contact
 For any inquiries or support, please contact gauravginodia02@gmail.com.
