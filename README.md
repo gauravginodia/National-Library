@@ -5,7 +5,7 @@ This project is a library management website built with Flask for the API backen
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F7sSOhsArE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/F7sSOhsArE4/0.jpg)](https://www.youtube.com/watch?v=F7sSOhsArE4)
 
 
 ## Features
