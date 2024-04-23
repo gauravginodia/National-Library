@@ -43,10 +43,11 @@ Before running this project locally, ensure you have the following installed:
    ```
 
 ## Usage
-1. Start the Celery worker:
+1. Start the Celery worker & beat:
    ```
    cd backend
-   celery -A app.celery worker --loglevel=info
+   celery -A app.celery_app worker --l INFO
+   celery -A app.celery_app beat --l INFO
    ```
 
 2. Start the Flask backend:
