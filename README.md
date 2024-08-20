@@ -70,4 +70,4 @@ Before running this project locally, ensure you have the following installed:
 4. Access the application in your browser at `http://localhost:8080`.
 
 ## Contact
-For any inquiries or support, please contact gauravginodia02@gmail.com.
+For any inquiries or support, please contact gauravginodia02@gmail.com or 22f3002972@ds.study.iitm.ac.in
